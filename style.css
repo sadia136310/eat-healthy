@@ -1,0 +1,111 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+.orange-color {
+    color: orange;
+
+}
+
+.flexible-container {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+
+.half-width img {
+
+    width: 60%;
+    padding-right: 5%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+
+
+}
+
+.top-banner {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.top {
+    text-align: center;
+    padding-inline-start: 20%;
+    padding-inline-end: 20%;
+
+}
+
+
+.new-area {
+    box-shadow: 5px 10px 40px grey;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+
+}
+
+.area {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 12%;
+    margin-right: 5%;
+}
+
+#recepie {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#recepie img {
+    width: 90%;
+    padding-left: 5%;
+    padding-top: 5%;
+
+}
+
+.recepie-item {
+    margin-right: 40px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px grey;
+
+}
+
+#color {
+    background-color: black;
+    margin-top: 5%;
+
+}
+
+#gray-color {
+    color: gray;
+}
+
+#white-color {
+    color: aliceblue;
+}
